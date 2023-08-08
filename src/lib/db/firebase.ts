@@ -15,8 +15,6 @@ const firebaseConfig = {
     // PASTE FIREBASE CONFIG HERE
     // PASTE FIREBASE CONFIG HERE
     // PASTE FIREBASE CONFIG HERE
-    // PASTE FIREBASE CONFIG HERE
-    // PASTE FIREBASE CONFIG HERE
 };
 
 function createFirebaseApp() {
